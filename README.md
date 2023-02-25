@@ -3,7 +3,7 @@
 This is a example program for mason learning。
 ## github link
 
-need to add
+https://github.com/NS47000/PypiSampleCode
 ## update new .gz
 
 ```
